@@ -1,5 +1,3 @@
-// resolvido com Big O(n²), depois otimizado com ajuda para Big O(n)
-
 const arr = [10, 15, 3, 7];
 const k = 17;
 

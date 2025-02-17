@@ -1,9 +1,6 @@
-// NÃO resolvido, mas estudei o script até entender a resolução
-
 function produtoExcetoAtual(arr) {
   const n = arr.length;
   const resultado = new Array(n).fill(1);
-  //array resultado criado assim [1,1,1,1,1]
 
   let produtoEsquerda = 1;
   for (let i = 0; i < n; i++) {
